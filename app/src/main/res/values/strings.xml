@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PopUpDemo</string>
+    <string name="txt_btn_toast">Toast it bb</string>
+    <string name="txt_btn_dialog">Open new dialog</string>
+    <string name="txt_btn_toppings">Pick your toppings</string>
+</resources>
